@@ -2,7 +2,7 @@
 
 ## Jupyter Demos
 
-▶️ [Demo | K-means Algorithm](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/k_means/k_means_demo.ipynb) - split Iris flowers into clusters based on `petal_length` and `petal_width`
+▶️ [Demo | K-means Algorithm](https://nbviewer.jupyter.org/github/rowennetfinder555/Practice4/blob/master/notebooks/k_means/k_means_demo.ipynb) - split Iris flowers into clusters based on `petal_length` and `petal_width`
 
 ## Definition
 

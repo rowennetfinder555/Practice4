@@ -2,7 +2,7 @@
 
 ## Jupyter Demos
 
-▶️ [Demo | Anomaly Detection](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/anomaly_detection/anomaly_detection_gaussian_demo.ipynb) - find anomalies in server operational parameters like `latency` and `threshold`
+▶️ [Demo | Anomaly Detection](https://nbviewer.jupyter.org/github/rowennetfinder555/Practice4/blob/master/notebooks/anomaly_detection/anomaly_detection_gaussian_demo.ipynb) - find anomalies in server operational parameters like `latency` and `threshold`
 
 ## Gaussian (Normal) Distribution
 

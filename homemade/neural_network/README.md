@@ -2,9 +2,9 @@
 
 ## Jupyter Demos
 
-▶️ [Demo | Multilayer Perceptron | MNIST](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/neural_network/multilayer_perceptron_demo.ipynb) - recognize handwritten digits from `28x28` pixel images.
+▶️ [Demo | Multilayer Perceptron | MNIST](https://nbviewer.jupyter.org/github/rowennetfinder555/Practice4/blob/master/notebooks/neural_network/multilayer_perceptron_demo.ipynb) - recognize handwritten digits from `28x28` pixel images.
 
-▶️ [Demo | Multilayer Perceptron | Fashion MNIST](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/neural_network/multilayer_perceptron_fashion_demo.ipynb) - recognize the type of clothes (Dress, Coat, Sandal, etc.) from `28x28` pixel images.
+▶️ [Demo | Multilayer Perceptron | Fashion MNIST](https://nbviewer.jupyter.org/github/rowennetfinder555/Practice4/blob/master/notebooks/neural_network/multilayer_perceptron_fashion_demo.ipynb) - recognize the type of clothes (Dress, Coat, Sandal, etc.) from `28x28` pixel images.
 
 ## Definition
 
